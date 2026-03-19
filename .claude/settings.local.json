@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pio run:*)",
+      "Bash(cmd /c \"dir C:\\\\Users\\\\austin\\\\Documents\\\\GitHub\\\\fuzzy-fuuzers\\\\src\")",
+      "Bash(cmd //c 'dir C:\\\\Users\\\\austin\\\\Documents\\\\GitHub\\\\fuzzy-fuuzers')",
+      "Bash(cmd //c 'dir C:\\\\Users\\\\austin\\\\Documents\\\\GitHub\\\\fuzzy-fuuzers\\\\c3 /s /b')"
+    ]
+  }
+}
